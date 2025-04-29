@@ -4,5 +4,9 @@
 	"x-username": "ajlkn",
 	"site-source-link": "https://html5up.net/paradigm-shift",
 	"hero-image": "https://cdn.jsdelivr.net/gh/mincevv/mv-data@0772316f6ff96ea5437b18b00dc10dc4e6cda142/images/vegait-sonja-brstina-naslovna.jpg",
-	"site-source-text": "AJLKN Website"
+	"site-source-text": "AJLKN Website",
+	"first": {
+		"title": "Magna sed nullam nisl adipiscing",
+		"content": "<strong>Lorem ipsum dolor</strong> sit amet consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing."
+	}
 }
